@@ -8,7 +8,7 @@ export class TestData {
 
   static categories: Category[] = [
     {id: 1, title: 'Робота'},
-    {id: 2, title: 'Сім`я'},
+    {id: 2, title: 'Родина'},
     {id: 3, title: 'Навчання'},
     {id: 4, title: 'Відпочинок'},
     {id: 5, title: 'Спорт'},
